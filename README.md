@@ -48,11 +48,11 @@ Students, including myself and my batchmates, frequently face the challenge of s
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/idityage "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/codewithevilxd "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![Follow Me](https://img.shields.io/github/followers/idityage?style=social&label=Follow&maxAge=2592000)](https://github.com/idityage "Follow Me")
+[![Follow Me](https://img.shields.io/github/followers/idityage?style=social&label=Follow&maxAge=2592000)](https://github.com/codewihEvilxd "Follow Me")
 
 
 ## :gear: Technologies Used
@@ -68,7 +68,7 @@ Students, including myself and my batchmates, frequently face the challenge of s
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/idityaGE/Assignment-Code-to-PDF.git
+   git clone https://github.com/codewithEvilxd/Assignment-Code-to-PDF-xd.git
    cd Assignment-Code-to-PDF
    ```
 
